@@ -1,0 +1,1 @@
+Sample file useful to practise the git commands.
