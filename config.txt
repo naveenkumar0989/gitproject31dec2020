@@ -1,1 +1,2 @@
-This is configuration file.
+Configuration files used in softwares installation
+
